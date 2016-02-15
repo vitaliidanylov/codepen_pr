@@ -1,0 +1,26 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400,700,600");
+
+.time{
+    display: inline-block;
+    font-size: 5em;
+}
+.control_block{
+  font-size: 1em;
+  color: black;
+}
+#m{
+  height: 1.5em;
+}
+#s{
+  height: 1.5em;
+}
+body {
+  background: #0D9B85;
+  font-family: "Open Sans";
+  padding-top: 30px;
+  text-align: center;
+  color: white;
+}
+p{
+  font-size: 3em;
+}

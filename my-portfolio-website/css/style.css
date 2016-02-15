@@ -1,0 +1,49 @@
+body {
+  padding-top: 5px;
+  background-image: url(https://neelipatelphotography.files.wordpress.com/2014/10/westfield-building.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.jumbotron {
+  background: none;
+  background-size: cover;
+  opacity: 1;
+  font-family: Arial;
+  font-size: 100px;
+  color: white;
+}
+
+.panel-transparent {
+  background: none;
+}
+
+.well {
+  background: none;
+  border: none;
+}
+
+.photo {
+  border-radius: 5%;
+}
+
+small {
+  color: blue;
+}
+
+#accordion {
+  background: none;
+}
+
+.glyphicon-leaf {
+  padding-top: 5px;
+  font-size: 35px;
+  color: white;
+}
+
+.footer {
+  background: none;
+  border: none;
+}

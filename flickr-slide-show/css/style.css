@@ -1,0 +1,46 @@
+body{
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  background-image: url(http://7-themes.com/data_images/out/21/6839204-gradient-background.jpg);
+  color: white;
+}
+.title{
+  font-size: 2.2em;
+  padding: 0;
+  margin: auto;
+  text-align: center;
+}
+#image{
+  margin: 10px 10px 5px 10px;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  posititon: absolute;
+  width: 730px;
+  height: 650px;
+  border-radius: 3%;
+}
+.tag{
+  margin: 5px auto;
+  padding: 10px;
+  
+  
+}
+.tag input{
+  border-radius: 1%;
+  font-size: 15px;
+
+}
+.container{
+  background-color: lightblue;
+  border: 1px white solid;
+  border-radius: 3%;
+  height: 720px;
+  opacity: 0.8;
+  min-width: 750px;
+}
+.container,.title{
+  padding: 0;
+  width: 750px;
+  margin: 10px auto;
+}
